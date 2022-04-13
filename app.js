@@ -49,6 +49,7 @@ app.use(session({
 }))
 app.use(checkUser);
 app.use("/icdsscorm", express.static(path.join(__dirname, "/icdsscorm"), {index: false}));
+app.use("/hpscorm", express.static(path.join(__dirname, "/hpscorm"), {index: false}));
 
 // working link: http://webhost:3000/icdsscorm/index_lms_html5.html?apikey=1234
 
