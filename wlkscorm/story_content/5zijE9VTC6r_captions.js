@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.63.27674.0%0D%0A%0D%0A00:00:00.192%20--%3E%2000:00:04.908%0D%0AUnderstand%20the%20importance%20of%20%0Dcivility,%20and%20how%20to%20put%20it%20into%20practice.%0D%0A%0D%0A"}')
